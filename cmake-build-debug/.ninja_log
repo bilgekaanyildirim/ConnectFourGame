@@ -1,0 +1,5 @@
+# ninja log v5
+1	40	1742379623849130496	CMakeFiles/ConnectFourGame.dir/Player.cpp.o	f7b4101ea27dbe06
+0	349	1742379624156771096	CMakeFiles/ConnectFourGame.dir/main.cpp.o	d778b8b5b49c6ed2
+0	351	1742379624158213450	CMakeFiles/ConnectFourGame.dir/Board.cpp.o	7f912309ad8bc4b
+351	383	1742379624193056239	ConnectFourGame	869045709beeb652
